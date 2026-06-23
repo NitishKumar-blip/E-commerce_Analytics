@@ -62,7 +62,7 @@ DIVIDE(
     COUNTROWS(FILTER(Orders, Orders[Delayed] = 1)),
     COUNTROWS(Orders)
 )
-
+```
 5. Route Efficiency Score
 
 Evaluates route performance using lead time and delay metrics.
@@ -140,5 +140,4 @@ Optimizes transportation costs.
 Enables performance monitoring through real-time insights.
 
 ## 📸 Dashboard Preview
-![E-Commerce Analytics Dashboard]
-(Snapshot.png)
+![E-Commerce Analytics Dashboard](Snapshot.png)
