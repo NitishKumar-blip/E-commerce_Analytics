@@ -140,5 +140,4 @@ Optimizes transportation costs.
 Enables performance monitoring through real-time insights.
 
 ## 📸 Dashboard Preview
-
 ![E-Commerce Analytics Dashboard](Snapshot.png)
