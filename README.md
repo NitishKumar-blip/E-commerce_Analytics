@@ -141,4 +141,4 @@ Enables performance monitoring through real-time insights.
 
 Example / Demo Of the DASHBOARD :
 
-![Dashboard Preview](https://github.com/NitishKumar-blip/E-commerce_Analytics/blob/main/Snapshot.png)
+Example : [!Dashboard](https://github.com/NitishKumar-blip/E-commerce_Analytics/blob/main/Snapshot.png)
