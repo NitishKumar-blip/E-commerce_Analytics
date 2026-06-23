@@ -139,5 +139,4 @@ Enhances customer satisfaction.
 Optimizes transportation costs.
 Enables performance monitoring through real-time insights.
 
-## 📸 Dashboard Preview
-![E-Commerce Analytics Dashboard](Snapshot.png)
+## 📸 Dashboard Preview![E-Commerce Analytics Dashboard](Snapshot.png)
