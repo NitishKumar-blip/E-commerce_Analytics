@@ -139,6 +139,6 @@ Enhances customer satisfaction.
 Optimizes transportation costs.
 Enables performance monitoring through real-time insights.
 
-Example / Demo Of the DASHBOARD 
+## 📸 Dashboard Preview
 
-Example : ![Dashboard]((https://github.com/NitishKumar-blip/E-commerce_Analytics/blob/main/Snapshot.png)
+![E-Commerce Analytics Dashboard](Snapshot.png)
