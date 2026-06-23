@@ -80,22 +80,24 @@ Displays cities with the best route efficiency scores.
 
 Examples:
 
-Kenner
-Rock Hill
-Southfield
-Hickory
-Apopka
+1.Kenner
+2.Rock Hill
+3.Southfield
+4.Hickory
+5.Apopka
+
 7. Low Efficiency Cities
 
 Highlights cities requiring logistics improvements.
 
 Examples:
 
-Port Arthur
-The Colony
+1.Port Arthur
+2.3.The Colony
 Lansing
-Greenville
-Bryan
+4.Greenville
+5.Bryan
+
 8. Average Route Lead Time by City
 
 Ranks cities according to average shipping lead time.
@@ -112,32 +114,33 @@ Top Cities:
 
 Compares shipping methods:
 
-First Class
-Same Day
-Second Class
+First Class , 
+Same Day , 
+Second Class , 
 Standard Class
 
 Metrics:
 
-Lead Time by Ship Mode
-Efficiency Score by Ship Mode
+1.Lead Time by Ship Mode
+2.Efficiency Score by Ship Mode
+
 📈 Key Performance Indicators (KPIs)
 
 KPI	Description :
 
-Shipping Lead Time	Total delivery duration
-Average Lead Time	Average delivery duration
-Delay Frequency	Percentage of delayed orders
-Route Efficiency Score	Logistics performance index
-Route Volume	Number of shipments per route
+1.Shipping Lead Time	Total delivery duration
+2.Average Lead Time	Average delivery duration
+3.Delay Frequency	Percentage of delayed orders
+4.Route Efficiency Score	Logistics performance index
+5.Route Volume	Number of shipments per route
 
 
 🚀 Business Benefits
-Reduces delivery delays.
-Improves route planning.
-Enhances customer satisfaction.
-Optimizes transportation costs.
-Enables performance monitoring through real-time insights.
+1.Reduces delivery delays.
+2.Improves route planning.
+3.Enhances customer satisfaction.
+4.Optimizes transportation costs.
+5.Enables performance monitoring through real-time insights.
 
 ## 📸 Dashboard Preview
 ![E-Commerce Analytics Dashboard](Snapshot.png)
